@@ -12,3 +12,9 @@ all the functions are stored in: crankRod_function.py
 crank_rod_symbolic_dynamic_main_script_gravity_benchmark.py is the main script for the gravity case
 
 crank_rod_symbolic_dynamic_main_script_control.py is the main script for the control problem
+
+outputMatlab.csv is the file where the matlab outputs of the gravity case are stored
+
+outputControl.csv is the file where the matlab outputs of the control case are stored
+
+
